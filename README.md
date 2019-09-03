@@ -1,6 +1,6 @@
 # Cycle Consitency Audios Noise Filter (CycleGAN ANF)
 
-<img src='images/G_model.png' width=70% />
+<img src='images/G_model.png' width=100% />
 
 >The Notebook `ANF_Train.ipynb` is the main procedure and self-explained. It is a good place to start.
 
