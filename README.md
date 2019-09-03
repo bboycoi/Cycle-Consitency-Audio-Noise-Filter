@@ -1,5 +1,7 @@
 # Cycle Consitency Audios Noise Filter (CycleGAN ANF)
 
+<img src='images/G_model.png' width=70% />
+
 >The Notebook `ANF_Train.ipynb` is the main procedure and self-explained. It is a good place to start.
 
 In this project, we're going to define and train a CycleGAN ANF to read in a raw audio sample from a set `X` (voice mixed noise) and transform it so that it sound as if it belongs in set `Y` (clear voice). Eventually, what we try to achieve is eliminating environmental sound (**noise filter**) and extracting only the speaker's voice.
