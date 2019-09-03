@@ -22,12 +22,13 @@ You should run this project with GPU acceleration for best performance. Highly r
 
         - Option 1: __Install with Conda__,
         ```
-        conda install pytorch torchvision -c pytorc
-h
+        conda install pytorch torchvision -c pytorch
         ```
+
         - Option 2: __To install with PIP__,
         ```
         pip install torch torchvision
+	```
         
 2. Obtain the `libav` package.
 
